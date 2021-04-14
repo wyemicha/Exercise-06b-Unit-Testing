@@ -17,4 +17,4 @@ Built using Godot 3.2.3
 Add more tests
 
 ## Created by 
-Jason Francis
+Wyeth Michaelsen
